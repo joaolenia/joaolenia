@@ -1,7 +1,7 @@
 <h2 align="center">Olá! Eu sou João Pedro Golenia 👋</h2>
 
 <p align="center">
-  (https://github-readme-stats.vercel.app/api?username=joaopedrogolenia&show_icons=true&theme=dark
+  <img src="https://github-readme-stats.vercel.app/api?username=joaopedrogolenia&show_icons=true&theme=dark" alt="Estatísticas do GitHub de João Pedro Golenia" />
 </p>
 
 <h3 align="center">Sobre Mim 🚀</h3>
