@@ -31,23 +31,16 @@
 </p>
 
 <br/>
-
-<p align="center">
-  <a href="https://github.com/joaopedrogolenia" title="Perfil do João Pedro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrogolenia&theme=dracula&show_icons=true" alt="Estatísticas do GitHub de João Pedro Golenia" />
-  </a>
-</p>
-
 <h3 align="center">Onde me encontrar 🌐</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-golenia-97a119276/" title="Linkedin do João Pedro">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" />
   </a>
-  <a href="mailto:joaopedrogolenia@gmail.com" title="E-mail do João Pedro">
+  <a href="joaopedrogolenia@gmail.com" title="E-mail do João Pedro">
     <img src="https://img.shields.io/badge/-E-mail-006bed?style=flat-square&logo=Gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="https://github.com/joaolenia" title="GitHub do João Pedro">
+  <a href="github.com/joaolenia" title="GitHub do João Pedro">
     <img src="https://img.shields.io/github/followers/joaopedrogolenia?label=follow&style=social" alt="GitHub" />
   </a>
 </p>
