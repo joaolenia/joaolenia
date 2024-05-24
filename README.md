@@ -40,7 +40,7 @@
   <a href="joaopedrogolenia@gmail.com" title="E-mail do João Pedro">
     <img src="https://img.shields.io/badge/-E-mail-006bed?style=flat-square&logo=Gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="github.com/joaolenia" title="GitHub do João Pedro">
+  <a href="https://github.com/joaolenia" title="GitHub do João Pedro">
     <img src="https://img.shields.io/github/followers/joaopedrogolenia?label=follow&style=social" alt="GitHub" />
   </a>
 </p>
