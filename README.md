@@ -1,68 +1,53 @@
 <h2 align="center">Olá! Eu sou João Pedro Golenia 👋</h2>
 
-<h3 align="center">Sobre Mim 🚀</h3>
-
 <p align="center">
-  Olá! Sou João Pedro Golenia, um estudante de Tecnologia da Informação apaixonado por desenvolvimento de software. Atualmente estou cursando o segundo ano do curso de Tecnólogo em Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná (IFPR). Estou buscando oportunidades que me permitam aplicar e desenvolver minhas habilidades em Java, Spring Boot e outras tecnologias web e de banco de dados.
+  <img src="https://komarev.com/ghpvc/?username=joaopedrogolenia&color=006bed" alt="Visualizações de perfil" />
 </p>
 
-<h3 align="center">Experiência Profissional 💼</h3>
+<h3 align="center">Sobre mim 🚀</h3>
 
 <p align="center">
-  <b>Estagiário de Desenvolvimento na Compass UOL</b><br>
-  Como estagiário de desenvolvimento na Compass UOL, tive a oportunidade de trabalhar em diversos projetos empolgantes. Minhas responsabilidades incluíam:
+  🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>
+  🎓 Estudando Tecnólogo em Análise e Desenvolvimento de Sistemas no IFPR.<br>
+  💼 Trabalhando como Estagiário de Desenvolvimento na Compass UOL.<br>
+  🌱 Aprendendo mais sobre Java, Spring Boot e outras tecnologias web e de banco de dados.
 </p>
 
-<ul align="center">
-  <li>Desenvolvimento de aplicações utilizando Java, Spring Boot e APIs REST.</li>
-  <li>Colaboração em projetos de banco de dados MySQL e MongoDB.</li>
-  <li>Utilização de ferramentas de controle de versão como Git e GitHub.</li>
-  <li>Participação em metodologias ágeis, especialmente Scrum.</li>
-  <li>Trabalho em ambientes de desenvolvimento como IntelliJ e VS Code.</li>
-  <li>Experiência com AWS (Amazon Web Services) para hospedagem e implantação de aplicativos.</li>
-  <li>Aplicação de conhecimentos em Programação Orientada a Objetos (POO).</li>
-</ul>
-
-<h3 align="center">Habilidades 🛠️</h3>
+<h3 align="center">Minhas Skills 🛠️</h3>
 
 <p align="center">
-  <b>Linguagens de Programação:</b> Java, C, C#, HTML, CSS<br>
-  <b>Frameworks e Tecnologias:</b> Spring Boot, Git/GitHub, MySQL, MongoDB, Docker<br>
-  <b>Metodologias de Desenvolvimento:</b> Scrum<br>
-  <b>Ambientes de Desenvolvimento Integrado (IDEs):</b> IntelliJ, VS Code<br>
-  <b>Serviços de Nuvem:</b> AWS (Amazon Web Services)
+  <b>Aplicações e dados:</b><br>
+  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396" alt="Java" />
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL" /><br>
+  <b>DevOps:</b><br>
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker" /><br>
+  <b>Ferramentas de desenvolvimento:</b><br>
+  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" alt="Trello" />
 </p>
 
-<h3 align="center">Formação Acadêmica 🎓</h3>
+<br/>
 
 <p align="center">
-  <b>Tecnólogo em Análise e Desenvolvimento de Sistemas</b><br>
-  Instituto Federal do Paraná (IFPR)<br>
-  Segundo Ano (2024 - Presente)
+  <a href="https://github.com/joaopedrogolenia" title="Perfil do João Pedro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrogolenia&theme=dracula&show_icons=true" alt="Estatísticas do GitHub de João Pedro Golenia" />
+  </a>
 </p>
 
-<h3 align="center">Idiomas 🌐</h3>
+<h3 align="center">Onde me encontrar 🌐</h3>
 
 <p align="center">
-  <b>Inglês:</b> Intermediário<br>
-  <b>Espanhol:</b> Intermediário
-</p>
-
-<h3 align="center">Informações de Contato 📬</h3>
-
-<p align="center">
-  <b>Localização:</b> Cruz Machado, Paraná<br>
-  <b>Telefone:</b> 42 998259010<br>
-  <b>E-mail:</b> joaopedrogolenia@gmail.com
-</p>
-
-<h3 align="center">Informações Adicionais 📝</h3>
-
-<p align="center">
-  <b>Disponibilidade:</b> Estou disponível para aprender e me adaptar a novas tecnologias e ambientes de trabalho.<br>
-  <b>Trabalho em Equipe:</b> Possuo habilidades de comunicação e resolução de problemas, além de ser capaz de trabalhar de forma colaborativa em equipe.
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaopedrogolenia" alt="Visitas" />
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-golenia-97a119276/" title="Linkedin do João Pedro">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+  <a href="mailto:joaopedrogolenia@gmail.com" title="E-mail do João Pedro">
+    <img src="https://img.shields.io/badge/-E-mail-006bed?style=flat-square&logo=Gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://github.com/joaolenia" title="GitHub do João Pedro">
+    <img src="https://img.shields.io/github/followers/joaopedrogolenia?label=follow&style=social" alt="GitHub" />
+  </a>
 </p>
